@@ -1,2 +1,1 @@
-echo "hey siri"
-echo "hello"
+hello github
